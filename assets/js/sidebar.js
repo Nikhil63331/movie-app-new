@@ -40,8 +40,10 @@ export function sidebar() {
 
     <div class="sidebar-footer">
       <p class="copyright">
-        <a href=" " target="_blank"></a>
+        Copyright 2023
+        <a href="https://naufalfiqri.netlify.app" target="_blank">Naufal Fiqri</a>
       </p>
+      <img src="./assets/images/tmdb-logo.png" width="130" height="17" alt="the movie database logo" />
     </div>
   `;
 
